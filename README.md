@@ -1,24 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=6000&pause=2000&color=3086D1&background=21FFB500&vCenter=true&repeat=false&width=500&lines=Hi%2C+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=6000&pause=3000&color=2C99CA&vCenter=true&width=500&lines=Hi%2C+there!)](https://git.io/typing-svg)
 
 Меня зовут Катя и я ищу работу системным аналитиком
 
   <p>
-    <img src="https://img.shields.io/badge/Moscow-009688?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjZmZmZmZmIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8%2BCg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggZD0iTTEyIDIxQzE1LjUgMTcuNCAxOSAxNC4xNzY0IDE5IDEwLjJDMTkgNi4yMjM1NSAxNS44NjYgMyAxMiAzQzguMTM0MDEgMyA1IDYuMjIzNTUgNSAxMC4yQzUgMTQuMTc2NCA4LjUgMTcuNCAxMiAyMVoiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPiA8L2c%2BCg08L3N2Zz4%3D"/>
     <a href="https://t.me/katysuh"><img src="https://img.shields.io/badge/- telegram-23A9F2?style=flat&logo=Telegram&logoColor=white"/></a>
     <a href="mailto:esukhanova7@gmail.com"><img src="https://img.shields.io/badge/-mail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
  </p>
  
 ### 🚀 My Skills
-* Понимание процесса работы с требованиями заказчика, владение методами и приёмами сбора, анализа, формализации требований
-* Понимание процессов разработки ПО
-* Знание видов и назначения проектной документации, опыт описания спецификации требований на разработку программного обеспечения с нуля
-* Построение UML диаграмм: классов, вариантов использования, активности
-* Описание Use Case и User Stories.
-* Подготовка данных для проектирования API. Документирование REST API в Swagger. Теория по SOAP. Чтение XML и JSON.
-* Базовые навыки прототипирования интерфейсов.
-* SQL формирование запросов, select, join, фильтрация, использование подзапросов, CTE, оконные функции.
-* Моделирование бизнес процессов, нотации BPMN 2.0, контекстная диаграмма IDEF0, теория IDEF3.
-* Документирование: составление спецификации требований по RUP, 830 стандарту.
+* собираю, разрабатываю, уточняю и документирую требования;
+*	пишу документацию: ПМИ, спецификация, ТЗ, руководства, документы по ГОСТ 19, 21, документация по проектам в Confluence;
+*	пишу User stories, Use cases, Job Stories;
+*	составляю UML-диаграммы: Sequence, Activity, State, Component;
+*	выполняю моделирование процессов as is, to be (нотация BPMN),
+*	делаю модели потоков данных DFD;
+* строю ER-диаграммы;
+*	делаю прототипы пользовательских интерфейсов в Figma, проверяю макеты UI на соответствие требованиям;
+*	пишу SQL-запросы (join, having, подзапросы);
+*	подготовка данных для проектирования API, документирование REST API;
+*	имею опыт работы с решениями для защиты информации, понимаю процессы разработки ПО;
+*	успешно управляю проектами.
+
 
 ### 💻 Tools
  <p>
@@ -46,29 +48,34 @@
 <br><br>
 * ### Интернет-магазин одежды
 _**Описание**_: Cпецификация требований, модель данных и диаграмма вариантов использования для монобрендового интернет-магазина одежды  
-| [Спецификация требований](https://drive.google.com/file/d/1FDjmAwmaASvM-dN42en3bHYlTpzQqnsB/view?usp=sharing) | [Use Case Diagram](https://github.com/Katty-E/Katty-E/blob/35feeb5f61d36f38a8748e04219de8ee6a9b13a5/1.%20DataModel%20Shop-%E2%84%961.%20Use%20Case.png) |
-[ER Diagram Chen's notation](https://github.com/Katty-E/Katty-E/blob/35feeb5f61d36f38a8748e04219de8ee6a9b13a5/1.%20DataModel%20Shop-%E2%84%962.%20%D0%9D%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A7%D0%B5%D0%BD%D0%B0.png) | [ER Diagram Crow’s Foot notation](https://github.com/Katty-E/Katty-E/blob/35feeb5f61d36f38a8748e04219de8ee6a9b13a5/1.%20DataModel%20Shop-%E2%84%963.%20%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.png) |
+| [Спецификация требований](https://drive.google.com/file/d/1FDjmAwmaASvM-dN42en3bHYlTpzQqnsB/view?usp=sharing) | [Use Case Diagram](projects/1.DataModel_UseCase.png) |
+[ER Diagram Chen's notation](projects/1.DataModelShop_chen.png) | [ER Diagram Crow’s Foot notation](projects/1.DataModelShop_norm.png) |
 <br>
 * ### Приложение для сети медицинских клиник
  _**Описание**_: Пациенты смогут регистрироваться в приложении клиники, самостоятельно находить необходимого врача, подходящее время для приёма и записываться на осмотр.
 Плюс новая функция check-up — подбор пользователям плана чекапа, включающий консультации у врачей и анализы, которые нужно проходить регулярно. Подбор будет выполняться по возрасту, полу и имеющимся заболеваниям.  
-| [Бизнес-процесс AS-IS в BPMN](2.UML-BPMN_AS-IS.png) | [Бизнес-процесс TO-BE в BPMN](2.UML-BPMN_TO-BE.png) | [Диаграмма в нотации UML State Machine](2.UML_State_Machine_Diagram.png) | 
+| [Бизнес-процесс AS-IS в BPMN](/projects/2.UML-BPMN_AS-IS.png) | [Бизнес-процесс TO-BE в BPMN](/projects/2.UML-BPMN_TO-BE.png) | [Диаграмма в нотации UML State Machine](/projects/2.UML_State_Machine_Diagram.png) | 
 
 | [Карта пользовательских историй c MVP, Use Story/Job Story](https://miro.com/app/board/uXjVMegv2E4=/?share_link_id=364196088167)  |  
 <sup>Для User Story из MVP описаны в карточках критерии приемки и сценарии</sup>  
-| [ER Diagram](2.ER-model.png)  |  [DFD level 1](2.DFD-log.png)  |  [DFD level 0](2.DFD-cont.png)  | [Прототип в Figma](2.Figma_simple.fig)  |  
+| [ER Diagram](/projects/2.ER-model.png)  |  [DFD level 1](/projects/2.DFD-log.png)  |  [DFD level 0](/projects/2.DFD-cont.png)  | [Прототип в Figma](/projects/2.Figma_simple.fig)  |  
 
-| [DFD](2.DFD_2.png) | [Прототип в Figma full](2.Figma_full.fig) |
+| [DFD](/projects/2.DFD_2.png) | Прототип в Figma - [ссылка](https://www.figma.com/file/OvX8ZZQFkFRqT2eTpw1WKa/MedApp?type=design&node-id=0%3A1&mode=design&t=niCe43ZLSMAaxpQp-1) / [файл](/projects/2.Figma_full.fig) |
 <br>
 
 * ### Мобильное приложение для управления умным домом
- _**Описание**_: 
-<br><br>
+ _**Описание**_: Мобильное приложенияе для управления умным домом с устройствами одного производителя. Формирование требований и карты пользовательских историй на основе интервью, моделирование процесоов и данных, подготовка интерактивного прототипа.
+ 
+| [Карта пользовательских историй c MVP, Use Story/Job Story](https://miro.com/app/board/uXjVM8GS3Cs=/?share_link_id=497591085947) |  
+<sup>Для User Story из MVP описаны в карточках критерии приемки и сценарии</sup>    
+|  [DFD level 1](/projects/2.DFD-log.png)  |  [DFD level 0](/projects/2.DFD-cont.png)  | [ER-Diagram Crow’s foot](projects/3.ER-Diagram.png) | [Словарь данных](https://docs.google.com/document/d/1Sr_RHtcS64YnQuejFnLFhdbgM2VtdSpOrAn8YYzTeTM/edit?usp=sharing) | [Роли пользователей](https://docs.google.com/document/d/1Oj_mLudVdha0CEfplkGMGu_u_NvlqXCvyh7SMWanXxw/edit?usp=sharing) |  
 
+| Интерактивный прототип пользовательского интерфейса в Figma - [ссылка](https://www.figma.com/file/MMXsSgIacbO2WE3wYxhwYo/Stets-%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D1%8B?type=design&node-id=4%3A581&mode=design&t=oxtynBYTjhSavskB-1) / [файл](/projects/StetsApp.fig) |
+<br>
  * ### API для онлайн-кинотеатра
- _**Описание**_: 
-<br><br>
-
+ _**Описание**_: Онлайн-кинотеатр с библиотекой фильмов и сериалов. Задача - добавить к архитектуре новый сервис «ТВ-каналы», протестировать API  
+| [UML Component Diagram](/projects/4.UML_ComponentDiagram.png) | Коллекция запросов REST API - [Users](projects/Collection_Users.postman_collection.json), [Films](projects/Collection_Films.postman_collection.json), [Metrics](projects/Collection_Metrics.json) | [Описание API](https://docs.google.com/document/d/1WHi4qL77mTJH-uIWh54PdHLstAUskGXx/edit?usp=sharing&ouid=104053559493842499836&rtpof=true&sd=true) |
+<br>
 *  ### Примеры документации
  _**Описание**_: примеры документов по текущим/прошлым проектам  
  | [Технические требования к SIEM](https://drive.google.com/file/d/1_9KLBjE_fzcLAL4pUOAHOuJz6sPcxMgG/view?usp=sharing) |  
@@ -81,7 +88,7 @@ _**Описание**_: Cпецификация требований, модел
 <br>
  * ### Примеры SQL-запросов
  _**Описание**_: примеры запросов  
- | [SQL-запросы]() | [ER-диаграмма БД](7.ER_diagram_DB.png) |
+ | [SQL-запросы](projects/examples.sql) | [ER-диаграмма БД](/projects/7.ER_diagram_DB.png) |
 <br>
 
 ### 🙇 Обо мне
