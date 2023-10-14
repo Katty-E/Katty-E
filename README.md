@@ -3,12 +3,10 @@
 Меня зовут Катя и я ищу работу системным аналитиком
 
   <p>
-    <a href="https://t.me/katysuh"><img src="https://img.shields.io/badge/-Telegram-23A9F2?style=flat&logo=Telegram&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Moscow-009688?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjZmZmZmZmIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8%2BCg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggZD0iTTEyIDIxQzE1LjUgMTcuNCAxOSAxNC4xNzY0IDE5IDEwLjJDMTkgNi4yMjM1NSAxNS44NjYgMyAxMiAzQzguMTM0MDEgMyA1IDYuMjIzNTUgNSAxMC4yQzUgMTQuMTc2NCA4LjUgMTcuNCAxMiAyMVoiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPiA8L2c%2BCg08L3N2Zz4%3D"/>
+    <a href="https://t.me/katysuh"><img src="https://img.shields.io/badge/- telegram-23A9F2?style=flat&logo=Telegram&logoColor=white"/></a>
     <a href="mailto:esukhanova7@gmail.com"><img src="https://img.shields.io/badge/-mail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-     <a href="-my-projects"><img src="https://img.shields.io/badge/-my projects-83B81A?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjZmZmZmZmIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8%2BCg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzMwM18xMTAzKSI%2BIDxwYXRoIGQ9Ik0xNyAxMkMxNS44NzU3IDEzLjEyNDMgMTEuNSAxNi41IDExLjUgMTYuNU0xNyAxMkMyMCA5IDIwIDcgMjAgNEMxNyA0IDE1IDQgMTIgN00xNyAxMkwxNy40NzUyIDE0LjM3NkMxNy44MDMxIDE2LjAxNTMgMTcuMjkgMTcuNzEgMTYuMTA3OCAxOC44OTIyTDE0LjkzNzQgMjAuMDYyNkMxNC40Njc2IDIwLjUzMjQgMTMuNjc4OCAyMC40MjE5IDEzLjM1NjIgMTkuODQxMUwxMS41IDE2LjVNMTIgN0w3LjUgMTIuNU0xMiA3TDkuNjIzOTUgNi41MjQ3OUM3Ljk4NDY1IDYuMTk2OTMgNi4yODk5NiA2LjcxMDA0IDUuMTA3ODQgNy44OTIxNkwzLjkzNzQzIDkuMDYyNTdDMy40Njc2NSA5LjUzMjM1IDMuNTc4MTMgMTAuMzIxMiA0LjE1ODkgMTAuNjQzOEw3LjUgMTIuNU03LjUgMTIuNUwxMS41IDE2LjVNMTUuNSA4LjUwMDQ5TDE0LjUgOS41MDA0OU0zIDIxTDYuMzkyMjMgMjAuMzIxNkM3LjMyNzA4IDIwLjEzNDYgOCAxOS4zMTM4IDggMTguMzYwNEw4IDE4QzggMTYuODk1NCA3LjEwNDU3IDE2IDYgMTZMNS42Mzk2MSAxNkM0LjY4NjI1IDE2IDMuODY1NDIgMTYuNjcyOSAzLjY3ODQ1IDE3LjYwNzhMMyAyMVoiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPiA8L2c%2BIDxkZWZzPiA8Y2xpcFBhdGggaWQ9ImNsaXAwXzMwM18xMTAzIj4gPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJ3aGl0ZSIvPiA8L2NsaXBQYXRoPiA8L2RlZnM%2BIDwvZz4KDTwvc3ZnPg%3D%3D"/></a>
  </p>
-
-`📍 Moscow` [`📧 mail`](mailto:esukhanova7@gmail.com) [`🏠 maximousblk.me`](https://maximousblk.me/) ✔
  
 ### 🚀 My Skills
 * Понимание процесса работы с требованиями заказчика, владение методами и приёмами сбора, анализа, формализации требований
@@ -22,7 +20,6 @@
 * Моделирование бизнес процессов, нотации BPMN 2.0, контекстная диаграмма IDEF0, теория IDEF3.
 * Документирование: составление спецификации требований по RUP, 830 стандарту.
 
-  
 ### 💻 Tools
  <p>
      <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
