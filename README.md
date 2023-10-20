@@ -100,7 +100,14 @@ _**Задача 3**_: На основе интервью составить ка
  _**Описание**_: примеры запросов  
  | [SQL-запросы](projects/examples.sql) | [ER-диаграмма БД](/projects/7.ER_diagram_DB.png) |
 <br>
-
+<br>
 ### 🙇 Обо мне
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="360">
+🎓 МГТУ им.Н.Э.Баумана, Комплексное обеспечение информационной безопасности - специалист по защите информации   
+
+📚 Доп. образование:  
+2022 University of California, Davis (Coursera) - SQL for Data Science - [cert](https://www.coursera.org/account/accomplishments/verify/MXEXL7MLW4A4?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
+2022 – 2023 Yandex Практикум - Системный аналитик (диплом о профессиональной переподготовке) 
+
+🌍 English: Upper Intermediate (B2) - [cert](https://drive.google.com/file/d/16RuRqeQdAkzM8FqHzXmXb1Nvsbifb_DG/view?usp=sharing)
+<br>
