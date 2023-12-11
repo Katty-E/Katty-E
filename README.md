@@ -51,9 +51,10 @@ Welcome to my profile
 * ### ПаркШеринг - приложение для сдачи и аренды парковочных мест
 _**Описание**_: Pet-проект, мобильное приложение для сдачи и аренды парковочных мест по принципу AirB&B.
 
-_**Задача**_: Аналитика существующих решений, сбор требований, разработка User Story Map, оценка MVP, презентация решения заказчику, подготовка ER- и UML-диаграмм, описание НФТ, дальнейшее участие в проекте как СА.  
-| [Карта пользовательских историй c MVP, Use Story](https://miro.com/app/board/uXjVNT-2U74=/?share_link_id=253201071868) |  
-<sup>Для части User Story описаны в карточках критерии приемки и сценарии</sup>
+_**Задача**_: Аналитика существующих решений, сбор требований, разработка User Story Map, оценка MVP, презентация решения заказчику, подготовка ER- и UML-диаграмм, документирование API, описание НФТ, дальнейшее участие в проекте как СА.  
+| [Карта пользовательских историй c MVP, Use Story](https://miro.com/app/board/uXjVNT-2U74=/?share_link_id=253201071868) |  [Use Case Diagram и описание вариантов использования](https://docs.google.com/document/d/1R2ZoSkGSWp2htjR_UdQxCUV6OkrdiZhaIabkNU2O1a4/edit?usp=sharing)  |  [ER Diagram](/projects/8.ER_Diagram.png)  |   
+<sup>Для части User Story описаны в карточках критерии приемки и сценарии</sup>  
+|  [Sequence diagram + API](https://docs.google.com/document/d/1sR-ONCObZApv5tu6NrWNZywA1co8pam5mMRddOY_EMI/edit?usp=sharing)  | [UML Class Diagram](/projects/8.UML_Class_Diagram.png)  |
 <br>
 * ### Интернет-магазин одежды
 _**Описание**_: Интернет-магазин одежды для товаров одного бренда  
